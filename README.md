@@ -1,5 +1,9 @@
-# react-projects-7-slider
+### Greetings! :wave:
 
-#### IN ACTION
+## React Review Slider
 
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
+A task to practise useState hooks :anchor:
+
+## Project Page
+
+Feel free to check out the page at - https://react-reviews.herokuapp.com/
